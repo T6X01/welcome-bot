@@ -6,14 +6,14 @@ client.on('ready', () => {
 });
 
 client.on('guildMemberAdd', async member => {
-    const channel = member.guild.channels.cache.get('848433319300300810');
+    const channel = member.guild.channels.cache.get('your join channel id');
     if (!channel) return;
 
     channel.send(`<@${member.user.id}> welcome`)
 });
 
 client.on('guildMemberRemove', async member => {
-    const channel = member.guild.channels.cache.get('847786097576771618');
+    const channel = member.guild.channels.cache.get('your leave channel id');
     if (!channel) return;
 
     channel.send(`<@${member.user.id}> goodbye`)
