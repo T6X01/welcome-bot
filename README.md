@@ -46,7 +46,8 @@ client.login('your bot Token here'); // edit  your bot Token here and paste your
 
 *You can edit the file, but make sure it is in the same code or else it will mess up the placing, if you know how to code but i suggest you to not change the code.*
 
-*If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+*If you are having errors/problems with starting delete the package.json file and do, 
+ before you install the packages `npm init`*
 
 
 
