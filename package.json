@@ -1,5 +1,6 @@
+
 {
-  "name": "simple-welcome-bot",
+  "name": "welcome-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,4 +12,6 @@
   "dependencies": {
     "discord.js": "^12.5.3"
   }
+
 }
+

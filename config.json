@@ -1,0 +1,8 @@
+{
+    "token": "Your Bot Token",
+    "welcomechannelID": "Your welcome channel ID",
+    "LeavechannelID": "Your leave channel ID",
+    "roleID": "Your auto role ID",
+    "WelcomeColour": "Your welcome Embed Colour html Colour Code",
+    "LeaveColour": "Your Leave Embed Colour html Colour Code"
+} 
