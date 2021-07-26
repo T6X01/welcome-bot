@@ -1,7 +1,7 @@
 
 <h1 align="center">Discord-Welcome-Bot</h1>
 
-
+<br/>
 ## **Installation | How to use the Bot**
 
  **1.** Install [node.js v14](https://nodejs.org/en/download/) or higher
@@ -26,7 +26,7 @@
     "LeaveColour": "Your Leave Embed Colour html Colour Code"
 }          
 ```
-
+<br/>
 
 
 #### ***NOTE :***
@@ -35,7 +35,7 @@
 
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
 
-
+<br/>
 
 
 
