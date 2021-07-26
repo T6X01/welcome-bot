@@ -1,7 +1,7 @@
 
-<h1 align="center">Discord-Welcome-Bot</h1>
+<h1 align="center">Discord-Welcome-Bot</h1><br/>
 
-<br/>
+
 ## **Installation | How to use the Bot**
 
  **1.** Install [node.js v14](https://nodejs.org/en/download/) or higher
