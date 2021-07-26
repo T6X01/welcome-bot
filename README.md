@@ -38,8 +38,12 @@
 
 
 
-***Discord Server :***
-[https://discord.gg/QstbsYEzDS](https://discord.gg/QstbsYEzDS)
+
+
+<p align="center">
+<a href="https://discord.gg/QstbsYEzDS">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="95"/>
+  </a>
 
 
 
