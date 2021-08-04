@@ -41,7 +41,7 @@
 
 
 
-<a href="https://discord.gg/QstbsYEzDS"><img src="https://discord.com/api/guilds/858093261280903188/widget.png?style=banner1"></a>
+<a href="https://discord.gg/QstbsYEzDS"><img src="https://discord.com/api/guilds/858093261280903188/widget.png"></a>
  
 
 
