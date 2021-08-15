@@ -4,7 +4,7 @@
 
 ## **Installation | How to use the Bot**
 
- **1.** Install [node.js v14](https://nodejs.org/en/download/) or higher
+ **1.** Install [node.js v14](https://nodejs.org/en/) or higher
 
  **2.** Download this repo and unzip it  |  or git clone it
  
